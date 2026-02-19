@@ -35,5 +35,24 @@ The identified products represent critical business failures because they:
 - Improve product quality
 - Reduce operational risk
 - Remove consistently underperforming products
+----
+## Project 2:Promotion Effectiveness Trend Analysis
 
----
+## Overview
+This Power BI dashboard analyzes the impact of promotional campaigns by comparing:
+
+- Avg Baseline Discount  
+- Avg Promotional Discount  
+- Avg Promotional Lift  
+
+The promotion start date (Jan 31) is highlighted to show trend changes before and after the campaign.
+
+## Key Insight
+Promotional discounts and lift increased significantly after the campaign launch, while baseline discount remained stable.
+
+## Tools Used
+- Power BI
+- DAX
+- Data Modeling
+
+
