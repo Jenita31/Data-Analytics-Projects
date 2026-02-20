@@ -38,7 +38,7 @@ The identified products represent critical business failures because they:
 ----
 ## Project 2:Promotion Effectiveness Trend Analysis
 
-##File Name:## promotion_effectiveness_trend_analysis.pbix
+File Name: promotion_effectiveness_trend_analysis.pbix
 ## Overview
 This Power BI dashboard analyzes the impact of promotional campaigns by comparing:
 
@@ -56,7 +56,7 @@ Promotional discounts and lift increased significantly after the campaign launch
 - DAX
 - Data Modeling
 - ----
-##Project 3: Discount vs Rating Causation Analysis
+Project 3: Discount vs Rating Causation Analysis
 
 File Name: discount_vs_rating_causation_analysis.pbix
 Tool Used: Power BI
