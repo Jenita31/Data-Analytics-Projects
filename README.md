@@ -38,6 +38,7 @@ The identified products represent critical business failures because they:
 ----
 ## Project 2:Promotion Effectiveness Trend Analysis
 
+##File Name:## promotion_effectiveness_trend_analysis.pbix
 ## Overview
 This Power BI dashboard analyzes the impact of promotional campaigns by comparing:
 
@@ -54,5 +55,28 @@ Promotional discounts and lift increased significantly after the campaign launch
 - Power BI
 - DAX
 - Data Modeling
+- ----
+##Project 3: Discount vs Rating Causation Analysis
 
+File Name: discount_vs_rating_causation_analysis.pbix
+Tool Used: Power BI
 
+Overview
+
+This Power BI dashboard analyzes whether higher discounts genuinely improve customer satisfaction or mainly increase sales volume. The study evaluates the relationship between:
+
+Avg Discount Percentage
+Avg Rating
+Review Volume
+
+Scatter plots with regression trend lines are used to identify correlation patterns and assess whether rating improvements are directly caused by discounts or indirectly influenced by increased sales activity.
+
+Key Insight
+
+Although discounts show a positive relationship with ratings, a stronger relationship exists between discount and review volume. Ratings tend to improve as review count increases, indicating that higher ratings are more influenced by increased sales volume (social proof effect) rather than direct improvement in product quality.
+
+Tools Used
+
+Power BI
+DAX
+Data Modeling
