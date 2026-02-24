@@ -1,8 +1,8 @@
 Data-Analytics-Projects
 
 This repository contains my Data Analytics projects created using Microsoft Excel and Power BI.
-------
 
+------
 Project 1: E-commerce Pricing vs Satisfaction Exception Detection
 
 File Name: ecommerce_project_1.xlsx
@@ -47,8 +47,8 @@ Improve product quality
 Reduce operational or supply chain risk
 
 Remove consistently underperforming products
-------
 
+--------
 Project 2: Promotion Effectiveness Trend Analysis
 
 File Name: promotion_effectiveness_trend_analysis.pbix
@@ -79,8 +79,8 @@ DAX Measures
 Time-Series Trend Analysis
 
 Data Modeling
-------
 
+--------
 Project 3: Discount vs Rating Causation Analysis
 
 File Name: discount_vs_rating_causation_analysis.pbix
@@ -111,7 +111,8 @@ DAX Measures
 Scatter Plot & Regression Analysis
 
 Data Modeling
-------
+
+--------
 Project 4: Product Financial Risk Analysis
 
 File Name: Product_Financial_Risk_Analysis_project_4.pbix
@@ -156,4 +157,5 @@ Risk Scoring Analysis
 Category-Level Aggregation
 
 Interactive Dashboard Design
-------
+
+-------
