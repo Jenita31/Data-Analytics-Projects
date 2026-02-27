@@ -211,3 +211,65 @@ Interactive Dashboard Design
 
 --------
 
+Project 6: Context-Aware Dynamic Price Banding Analysis
+
+File Name: dynamic_price_banding.pbix
+Tool Used: Power BI
+
+Overview
+
+This Power BI dashboard implements dynamic percentile-based price segmentation to classify products into Low, Medium, and High price bands.
+
+Instead of using fixed price thresholds, the model calculates the 30th percentile (P30) and 70th percentile (P70) of product price using DAX. These percentile values automatically adjust based on applied filters such as Category, Brand, and Order Date.
+
+The objective of this project is to demonstrate how dynamic segmentation provides more accurate pricing insights compared to static price band classification.
+
+The dashboard evaluates:
+
+30th Percentile Price (P30)
+
+70th Percentile Price (P70)
+
+Dynamic Price Band Classification
+
+Sales Distribution Across Price Bands
+
+Filter-Context Impact on Segmentation
+
+Key Insight
+
+The analysis reveals that price segmentation shifts when filter context changes. When users apply slicers such as Category or Brand, percentile boundaries recalculate dynamically, causing products to move between Low, Medium, and High bands.
+
+This proves that static pricing thresholds can misclassify products across categories with different pricing structures. Percentile-based dynamic banding normalizes classification within the selected context, ensuring fair comparison and more reliable analytical insights.
+
+Tools & Techniques Used
+
+Power BI
+
+DAX Measures
+
+PERCENTILEX.INC Function
+
+ALLSELECTED Filter Context Logic
+
+Dynamic Segmentation Modeling
+
+KPI Card Visualization
+
+Clustered Column Chart Analysis
+
+Interactive Slicer Design
+
+Business Application
+
+This approach can be applied in:
+
+E-commerce Pricing Strategy
+
+Category-Level Product Benchmarking
+
+Dynamic Pricing Optimization
+
+Revenue Distribution Analysis
+
+Performance-Based Product Segmentation
