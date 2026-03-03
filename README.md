@@ -5,6 +5,7 @@ This repository contains my Data Analytics projects built using Power BI, focuse
 Project 1: E-commerce Pricing vs Satisfaction Exception Detection
 
 File Name: Ecommerce_Exception_Detection_Project_1.pbix
+
 Tool Used: Power BI
 
 Overview
@@ -43,6 +44,7 @@ Strategic Repricing Decisions
 Project 2: Promotion Effectiveness Trend Analysis
 
 File Name: promotion_effectiveness_trend_analysis.pbix
+
 Tool Used: Power BI
 
 Overview
@@ -76,6 +78,7 @@ Discount Strategy Optimization
 Project 3: Discount vs Rating Causation Analysis
 
 File Name: discount_vs_rating_causation_analysis.pbix
+
 Tool Used: Power BI
 
 Overview
@@ -111,6 +114,7 @@ Customer Perception Analysis
 Project 4: Product Financial Risk Analysis
 
 File Name: Product_Financial_Risk_Analysis_project_4.pbix
+
 Tool Used: Power BI
 
 Overview
@@ -138,6 +142,7 @@ Strategic Product Discontinuation
 Project 5: Trust-Weighted Product Reliability Analysis
 
 File Name: Trust_Weighted_Rating_Model.pbix
+
 Tool Used: Power BI
 
 Overview
@@ -176,6 +181,7 @@ Product Reliability Benchmarking
 Project 6: Context-Aware Dynamic Price Banding Analysis
 
 File Name: dynamic_price_banding.pbix
+
 Tool Used: Power BI
 
 Overview
